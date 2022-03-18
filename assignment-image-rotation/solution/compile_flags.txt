@@ -1,0 +1,7 @@
+-Iinclude/
+-std=c17
+-pedantic
+-Wall
+-Werror
+-ggdb0
+-Wno-attributes
